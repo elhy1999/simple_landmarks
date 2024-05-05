@@ -1,4 +1,4 @@
-# Ridiculously simple landmark annotation tool 
+# Simple Landmarks
 
 __Quickly annotate many images, one landmark at a time__
 
